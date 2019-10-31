@@ -1,1 +1,0 @@
-url = https://git.dev.tencent.com/qf_52hertz/test.git
